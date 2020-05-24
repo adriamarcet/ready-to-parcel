@@ -1,2 +1,2 @@
-# monsters-mine
-A monster's mine like game
+# ready-to-parcel
+Ease Parcel config to kickstart projects
